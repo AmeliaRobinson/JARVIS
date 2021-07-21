@@ -366,6 +366,7 @@ body {
     float: left;
     margin-left: 50px;
     width: 210px;
+    margin-top: 42px;
 }
 
 #date_time {
@@ -451,7 +452,7 @@ body {
 
 #rightmenu {
     float: right;
-    margin-right: 20px;
+    margin-right: -13px;
     width: 300px;
 }
 
@@ -866,6 +867,7 @@ ul {
     position: fixed;
     height: 240px;
     margin-left: 40px;
+    margin-top: 37px;
 }
 
 #particle4 {
